@@ -23,9 +23,9 @@
 	<string name="TVcontentapp">Provider contenuti (MB)</string>
 	<string name="TVemptyapp">Applicazioni terminate (MB)</string>
         <string name="TVinteractive">Interactive cpufreq governor</string>
-        <string name="TVminfreq">Min CPU frequency</string>
-        <string name="TVmaxfreq">Max CPU frequency</string>
-        <string name="TVcompcalibration">Calibrate Compass</string>
+        <string name="TVminfreq">Frequenza minima CPU</string>
+        <string name="TVmaxfreq">Frequenza massima CPU</string>
+        <string name="TVcompcalibration">Calibrazione bussola</string>
     <!-- Buttons -->
     <string name="Bopen">Apri</string>
     <string name="Bdefaults">Imposta default</string>
